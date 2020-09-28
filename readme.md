@@ -191,7 +191,7 @@ App类将作为我们整个游戏应用
 这是一个非常简单的示例，说明如何设置场景，应将其分为不同的功能，并在项目进行过程中使用类变量，
 
 app.ts
-
+ 
 ```ts
 import "@babylonjs/core/Debug/debugLayer";
 import "@babylonjs/inspector";
